@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/code/CH03_03_TextField.cs">
+    <Files>
+      <File FileName="Assets/code/CH03_01_Label.cs" Line="1" Column="1" />
+      <File FileName="Assets/code/CH03_02_Button.cs" Line="39" Column="59" />
+      <File FileName="Assets/code/CH03_03_TextField.cs" Line="37" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
