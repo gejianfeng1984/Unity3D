@@ -49,6 +49,10 @@
      <Compile Include="Assets\code\CH03_01_Label.cs" />
      <Compile Include="Assets\code\CH03_02_Button.cs" />
      <Compile Include="Assets\code\CH03_03_TextField.cs" />
+     <Compile Include="Assets\code\CH03_04_ToolBar.cs" />
+     <Compile Include="Assets\code\CH03_05_Slider.cs" />
+     <Compile Include="Assets\code\CH03_06_ScrollView.cs" />
+     <Compile Include="Assets\code\CH03_07_GroupView.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
