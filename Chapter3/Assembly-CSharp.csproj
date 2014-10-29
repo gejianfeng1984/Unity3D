@@ -54,6 +54,10 @@
      <Compile Include="Assets\code\CH03_06_ScrollView.cs" />
      <Compile Include="Assets\code\CH03_07_GroupView.cs" />
      <Compile Include="Assets\code\CH03_08_Window.cs" />
+     <Compile Include="Assets\code\CH03_11_GUILayout1.cs" />
+     <Compile Include="Assets\code\CH03_12_GUILayout2.cs" />
+     <Compile Include="Assets\code\CH03_13_LinerLayout.cs" />
+     <Compile Include="Assets\code\CH03_14_Space.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
