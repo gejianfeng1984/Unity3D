@@ -47,6 +47,14 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\code\CH08_01_PlayerPrefs.cs" />
+     <Compile Include="Assets\code\CH08_02_CreateFile.cs" />
+     <Compile Include="Assets\code\CH08_03_ReadFile.cs" />
+     <Compile Include="Assets\code\CH08_05_SwitchScene.cs" />
+     <Compile Include="Assets\code\CH08_06_CaptureScreenShot.cs" />
+     <Compile Include="Assets\code\CH08_07_OpenURL.cs" />
+     <Compile Include="Assets\code\CH08_08_LoadAssert.cs" />
+     <Compile Include="Assets\code\CH08_09_CreateAssert.cs" />
+     <Compile Include="Assets\code\CH08_10_CreateFolder.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
